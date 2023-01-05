@@ -28,7 +28,6 @@ Languages and Tools:
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg" title="Raspberrypi" **alt="Raspberrypi" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" **alt="RStudio" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original-wordmark.svg" title="visualstudio" **alt="visualstudio" width="40" height="40"/>
 </div>
   
   
